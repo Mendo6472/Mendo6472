@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://media.discordapp.net/attachments/741974571569119233/1127295580352295064/image.png">
 
 <!--
 **Mendo6472/Mendo6472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
