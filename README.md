@@ -35,11 +35,8 @@
 <details><summary><h2>Stats!</h2></summary>
   <br>
   <div align="center">
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mendo6472&show_icons=true&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en&layout=compact" alt="mendo6472" />  </p>  
-    <p>&nbsp;
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendo6472&show_icons=false&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en" alt="mendo6472" />
-    </p>
+    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendo6472&show_icons=true&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en&layout=compact" alt="mendo6472" />
+    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mendo6472&show_icons=false&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en" alt="mendo6472" />
   </div>
 </details>
 
