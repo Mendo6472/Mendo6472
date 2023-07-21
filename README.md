@@ -19,24 +19,25 @@
 </details>
 
 <details><summary><h2>Languages and Tools!</h2></summary>
-  <p align="center"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-  </p>
+  <div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+  <code><img width="50" src="https://github.com/Mendo6472/Mendo6472/assets/78510889/8d16f64a-d3b7-4c60-acdd-1df16ae3edde" alt="Visual Basic" title="Visual Basic"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+</div>
 </details>
 
 <details><summary><h2>Stats!</h2></summary>
   <br>
   <div align="center">
-    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendo6472&show_icons=true&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en&layout=compact" alt="mendo6472" />
-    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mendo6472&show_icons=false&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en" alt="mendo6472" />
+    <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mendo6472&show_icons=true&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en&layout=compact" alt="mendo6472" />
+    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mendo6472&show_icons=false&theme=dracula&title_color=c406f9&text_color=c406f9&hide_border=true&locale=en" alt="mendo6472" />
   </div>
 </details>
 
