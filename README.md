@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6306ca,100:B801ff&height=200&text=Hey+%F0%9F%91%8B%2C+%20I'm%20Mendo6472&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20beginner%20backend%20developer%20from%20Colombia)
 <img align="right" width="200" src="https://media.discordapp.net/attachments/741974571569119233/1127295580352295064/image.png">
+<br>
+<br>
 - 🔭 I’m currently working on **Demi!Bot**
 
 - 🌱 I’m currently studying to be a **Software Systems Engineer**
 
 - 📫 How to reach me **mendo6472@gmail.com**
-
+<br>
 <details><summary><h2>Discord!</h2></summary>
 	<div align="center">
 		<img src="https://lanyard.cnrad.dev/api/391344552817983498?theme=dark&bg=0d1117"/> 
@@ -51,3 +53,4 @@
 </details>
 
 <img align="center" src = "https://github.com/Mendo6472/Mendo6472/assets/78510889/e925ad4b-80e5-481e-aea5-aa171d7d0d1a">
+</p>
