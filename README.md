@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:a82da8&height=200&text=Hey+%F0%9F%91%8B%2C+%20I'm%20Mendo6472&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20beginner%20backend%20developer%20from%20Colombia)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6306ca,100:B801ff&height=200&text=Hey+%F0%9F%91%8B%2C+%20I'm%20Mendo6472&fontAlignY=25&descAlignY=50&fontSize=50&fontColor=FFFFFF&desc=A%20beginner%20backend%20developer%20from%20Colombia)
+<img align="center" src = "https://github.com/Mendo6472/Mendo6472/assets/78510889/e925ad4b-80e5-481e-aea5-aa171d7d0d1a">
+<br>
+<br>
 <br>
 <img align="right" width="200" src="https://media.discordapp.net/attachments/741974571569119233/1127295580352295064/image.png">
 - 🔭 I’m currently working on **Demi!Bot**
@@ -51,4 +54,4 @@
   </div>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:a82da8&height=200&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6306ca,100:B801ff&height=200&section=footer">
