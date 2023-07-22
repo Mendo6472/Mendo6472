@@ -5,15 +5,22 @@
 
 - 📫 How to reach me **mendo6472@gmail.com**
 
+<details><summary><h2>Discord!</h2></summary>
+	<div align="center">
+		<img src="https://lanyard.cnrad.dev/api/391344552817983498?theme=dark&bg=0d1117"/> 
+	</div>
+</details>
+
 
 <details><summary><h2>Connect with me!</h2></summary>
   <div align="center">
-    <h3 align="center">Socials:</h3>
     <p align="center">
-      <a href="https://linkedin.com/in/julian-andres-mendoza-castro-a4ba7a247/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian-andres-mendoza-castro-a4ba7a247/?locale=en_us" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/julian-andres-mendoza-castro-a4ba7a247/?locale=en_us" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian-andres-mendoza-castro-a4ba7a247/?locale=en_us" height="30" width="40" />
+      </a>
+	<a href="https://www.npmjs.com/~mendo6472" target="blank">
+	<img align="center" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="mendo6472" height="30" width="40" /></a>
     </p>
-    <h3 align="center">Discord:</h3>
-    <img src="https://lanyard.cnrad.dev/api/391344552817983498?theme=dark&bg=0d1117"/> 
   </div>
 </details>
 
