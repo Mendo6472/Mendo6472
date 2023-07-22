@@ -16,17 +16,15 @@
 
 <details><summary><h2>Connect with me!</h2></summary>
   <div align="center">
-    <p align="center">
 	<a href="https://linkedin.com/in/julian-andres-mendoza-castro-a4ba7a247/?locale=en_us" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" />
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" />
       	</a>
 	<a href="https://www.npmjs.com/~mendo6472" target="blank">
-		<img align="center" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="50" />
+		<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="50" />
 	</a>
 	<a href="https://glitch.com/@mendo6472" target="blank">
-		<img align="center" src="https://github.com/Mendo6472/Mendo6472/assets/78510889/8c5f68f2-96e6-4c63-9aac-ef7e4969b25a" alt="Glitch" width="50" />
+		<img src="https://cdn.discordapp.com/attachments/763164604763078669/1132151246036422696/glitchLogo.png" alt="Glitch" width="50" />
 	</a>	    
-    </p>
   </div>
 </details>
 
