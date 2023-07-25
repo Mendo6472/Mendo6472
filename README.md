@@ -2,7 +2,7 @@
 <img align="right" width="200" src="https://media.discordapp.net/attachments/741974571569119233/1127295580352295064/image.png">
 <br>
 <br>
-- 🔭 I’m currently working on **Demi!Bot**
+- 🔭 I’m currently working on [Demi!Bot](https://github.com/Mendo6472/Demi-Bot) and [tf2-wiki](https://github.com/Mendo6472/tf2-wiki)
 
 - 🌱 I’m currently studying to be a **Software Systems Engineer**
 
