@@ -2,9 +2,7 @@
 <img align="right" width="200" src="https://media.discordapp.net/attachments/741974571569119233/1127295580352295064/image.png">
 <br>
 <br>
-- 🔭 I’m currently working on [DemiBot](https://github.com/Mendo6472/DemiBot) and [tf2-wiki](https://github.com/Mendo6472/tf2-wiki)
-
-- 🌱 I’m currently studying to be a **Software Systems Engineer**
+- 🔭 I’m currently working on [Habi](https://habi.co/) as an Automation Engineer
 
 - 📫 How to reach me **mendo6472@gmail.com**
 <br>
@@ -22,10 +20,7 @@
       	</a>
 	<a href="https://www.npmjs.com/~mendo6472" target="blank">
 		<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="50" />
-	</a>
-	<a href="https://glitch.com/@mendo6472" target="blank">
-		<img src="https://cdn.discordapp.com/attachments/763164604763078669/1132151246036422696/glitchLogo.png" alt="Glitch" width="50" />
-	</a>	    
+	</a>    
   </div>
 </details>
 
